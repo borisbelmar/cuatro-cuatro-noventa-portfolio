@@ -1,0 +1,56 @@
+{
+  "order": 6,
+  "title": "Apollo Aéreo",
+  "category": "Case",
+  "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/06_Apollo_A%C3%A9reo_sk7b5s.jpg",
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "APollo Aéreo"
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/712391996?h=cfeff79fea"
+    },
+    {
+      "type": "plainText",
+      "content": "En un brief que pedía poder conectar a las nuevas generaciones con la marca a través del mundo del gaming, invitamos al Coronel Sanders a mandar Bucket´s especiales desde el cielo a los gamers españoles que se mudaron a Andorra."
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Ane Gómez / Elías Castro / Ingrid Martel"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Daniel Alarcón"
+          },
+          {
+            "label": "Marca",
+            "value": "KFC"
+          },
+          {
+            "label": "Concurso",
+            "value": "CdeC / Jóvenes Creativos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dobleb/image/upload/v1653249993/cuatro-cuatro-noventa/Logo-ApolloAereo_kbcx0k.png",
+          "alt": "APollo Aéreo Logo"
+        }
+      ]
+    }
+  ]
+}

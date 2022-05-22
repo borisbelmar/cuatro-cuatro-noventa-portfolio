@@ -1,0 +1,59 @@
+{
+  "order": 1,
+  "title": "Healthy Cookies",
+  "category": "Case",
+  "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/01_Healthy_Cookies_z99utm.jpg",
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "Healthy Cookies"
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/712391996?h=cfeff79fea"
+    },
+    {
+      "type": "plainText",
+      "content": [
+        "Necesitamos que la Gen Z construya un futuro mejor y supere las barreras que enfrentan para crear una vida más saludable.",
+        "Por eso invitamos a la generación que nació con internet, a cambiar sus hábitos, cambiando lo que consumen en la web."
+      ]
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte / Animación",
+            "value": "Daniel Alarcón"
+          },
+          {
+            "label": "Marca",
+            "value": "GymShark"
+          },
+          {
+            "label": "Concurso",
+            "value": "Cannes / Future Lions 2022"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dobleb/image/upload/v1653249391/cuatro-cuatro-noventa/Logo-Healthy-Cookies_fmn6ac.png",
+          "alt": "Healthy Cookies Logo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "order": 4,
+  "title": "Alma",
+  "category": "Videoclip",
+  "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/04_ALMA_uun3hr.jpg",
+  "blocks": [
+    {
+      "type": "imageTitle",
+      "content": {
+        "title": "Alma",
+        "image": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653256091/Portfolio%20Cuatrocuatronoventa/Alma/AlmaHome_r5hdht.jpg"
+      }
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/712391996?h=cfeff79fea"
+    },
+    {
+      "type": "plainText",
+      "content": "Hay algo en los artistas que los hace personas valientes. Se lanzan al vacío aferrados solo a su convicción y amor por lo que hacen. Toman un viaje incierto, lleno de luces y sombras que conviven hasta que, el o la artista, sintoniza con su interior y renace desde obra. Un buen ejemplo es el Pablo, quien dio ese brinco al vacío y en el camino del DragQueen, se descubrió a Missla."
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Toni Delgado / Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Diego Mendoza / Daniel Alarcón"
+          },
+          {
+            "label": "Director de Foto",
+            "value": "Willy Ormaetxea"
+          },
+          {
+            "label": "Locación",
+            "value": "Elvira Café / Barcelona"
+          },
+          {
+            "label": "Proyecto",
+            "value": "VideoClip"
+          },
+          {
+            "label": "Concurso",
+            "value": "BVMA, Brother Video Music Awards"
+          },
+          {
+            "label": "Reconocimiento",
+            "value": "Mejor VideoClip 2022"
+          }
+        ]
+      }
+    }
+  ]
+}

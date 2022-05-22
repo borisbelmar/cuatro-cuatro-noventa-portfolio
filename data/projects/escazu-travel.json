@@ -1,0 +1,63 @@
+{
+  "order": 9,
+  "title": "Escazú Travel",
+  "category": "Case",
+  "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157941/cuatro-cuatro-noventa/09_Escaz%C3%BA_Travel_b6eqca.jpg",
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "Escazú Travel"
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/712391996?h=cfeff79fea"
+    },
+    {
+      "type": "plainText",
+      "content": [
+        "Invitamos a la Gen Z a salvar el mundo viajando.",
+        "Y así presionar a que más presidentes de América Latina reafirmen el acuerdo de Escazú."
+      ]
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "María Pilar Jiménez / Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte / Animación",
+            "value": "Karla Urrutia / Daniel Alarcón"
+          },
+          {
+            "label": "Marca",
+            "value": "Amnistía Internacional / #EscazuparaTodxs"
+          },
+          {
+            "label": "Concurso",
+            "value": "El Ojo de Iberoamérica / Nuevos Talentos 2021"
+          },
+          {
+            "label": "Reconocimiento",
+            "value": "Short List"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dobleb/image/upload/v1653250278/cuatro-cuatro-noventa/Logo-EscazuTravel_cs139p.png",
+          "alt": "Escazú Travel Logo"
+        }
+      ]
+    }
+  ]
+}
