@@ -17,9 +17,14 @@ export default function Profile ({ profile }) {
           />
         </div>
       </div>
-      <h3 className='text-center text-2xl font-semibold font-display tracking-widest mb-2'>
-        {profile.fullName}
-      </h3>
+      <div className="text-center mb-4">
+        <h3 className='text-center text-2xl font-semibold font-display tracking-widest'>
+          {profile.fullName}
+        </h3>
+        <p className="font-display text-lg uppercase tracking-widest">
+          {profile.role}
+        </p>
+      </div>
       <div className="text-center flex items-center justify-center gap-4 mb-6">
         <a href={profile.socials.behance} target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={faBehanceSquare} className="h-8" />
