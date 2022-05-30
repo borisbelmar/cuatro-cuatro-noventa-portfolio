@@ -1,6 +1,6 @@
 {
   "order": 2,
-  "title": "Demadera Session",
+  "title": "Sesiones DeMadera",
   "description": "",
   "category": "Videoclip",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/02_Demadera_Session_nto2el.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "type": "plainText",
-      "content": "Descubrimos un espacio íntimo, un paréntesis, una caja resonante donde el silencio solo se rompe cuando las ruedas pasan sobre la madera. Por eso creamos una serie de encuentros donde un músico improvisa con su piano, mientras un rider hace lo mismo con su tabla."
+      "content": "Descubrimos un espacio íntimo, un paréntesis, una caja resonante donde el silencio solo se rompe cuando las ruedas pasan sobre la madera. Por eso creamos una serie de encuentros donde un músico improvisa con su piano, mientras un skaters hace lo mismo con su tabla."
     },
     {
       "type": "vimeoVideo",

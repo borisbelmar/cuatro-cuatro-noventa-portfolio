@@ -1,13 +1,13 @@
 {
   "order": 5,
-  "title": "Quitters Club",
+  "title": "Quitter's Club",
   "description": "",
   "category": "Case",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/05_Quitters_Club_udzo0n.jpg",
   "blocks": [
     {
       "type": "plainTitle",
-      "content": "Healthy Cookies"
+      "content": "Quitter's Club"
     },
     {
       "type": "vimeoVideo",
@@ -16,7 +16,7 @@
     {
       "type": "plainText",
       "content": [
-        "Buscaban una ideal que motivara a los estudiantes a retomar el hábito de hacer una lección diaria. Claro, porque tú, yo y todos hemos dejado algo inconcluso, como Duolingo, o el gym.",
+        "Buscaban una idea que motivara a los estudiantes a retomar el hábito de hacer una lección diaria. Claro, porque tú, yo y todos hemos dejado algo inconcluso, como Duolingo, o el gym.",
         "Entonces convertimos esos 2 hábitos que siempre dejamos a medias y los convertimos en una gran oferta para cuidar nuestra mente y nuestro cuerpo."
       ]
     },

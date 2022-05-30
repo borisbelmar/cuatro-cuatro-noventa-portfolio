@@ -18,7 +18,10 @@
     },
     {
       "type": "plainText",
-      "content": "Hay algo en los artistas que los hace personas valientes. Se lanzan al vacío aferrados solo a su convicción y amor por lo que hacen. Toman un viaje incierto, lleno de luces y sombras que conviven hasta que, el o la artista, sintoniza con su interior y renace desde obra. Un buen ejemplo es el Pablo, quien dio ese brinco al vacío y en el camino del DragQueen, se descubrió a Missla."
+      "content": [
+        "Hay algo en los artistas que los hace personas valientes. Se lanzan al vacío aferra-dos solo a su convicción y amor por lo que hacen. Toman un viaje incierto, lleno de luces y sombras que conviven hasta que, el o la artista, sintoniza con su interior y renace desde su obra.",
+        "Un buen ejemplo es el Pablo, quien dio ese brinco al vacío y en el camino del DragQueen, descubrió a Missla."
+      ]
     },
     {
       "type": "separator"
