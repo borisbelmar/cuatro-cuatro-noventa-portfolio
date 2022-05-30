@@ -1,7 +1,60 @@
 {
   "order": 5,
   "title": "Quitters Club",
+  "description": "",
   "category": "Case",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/05_Quitters_Club_udzo0n.jpg",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "Healthy Cookies"
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/712635481?h=aa79011704"
+    },
+    {
+      "type": "plainText",
+      "content": [
+        "Buscaban una ideal que motivara a los estudiantes a retomar el hábito de hacer una lección diaria. Claro, porque tú, yo y todos hemos dejado algo inconcluso, como Duolingo, o el gym.",
+        "Entonces convertimos esos 2 hábitos que siempre dejamos a medias y los convertimos en una gran oferta para cuidar nuestra mente y nuestro cuerpo."
+      ]
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Toni Delgado / Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Diego Mendoza / Daniel Alarcón"
+          },
+          {
+            "label": "Marca",
+            "value": "Duolingo"
+          },
+          {
+            "label": "Concurso",
+            "value": "D&DA New Blood Awards 2022"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653420411/Portfolio%20Cuatrocuatronoventa/Quitters%20Clib/Logo-Quitters-Club_xup4mp.png ",
+          "alt": "Logo Quitters Club"
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "order": 4,
   "title": "Alma",
+  "description": "",
   "category": "Videoclip",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/04_ALMA_uun3hr.jpg",
   "blocks": [
@@ -13,7 +14,7 @@
     },
     {
       "type": "vimeoVideo",
-      "content": "https://player.vimeo.com/video/712391996?h=cfeff79fea"
+      "content": "https://player.vimeo.com/video/713858650?h=0275dc84e7"
     },
     {
       "type": "plainText",
@@ -57,6 +58,19 @@
           }
         ]
       }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653500173/Portfolio%20Cuatrocuatronoventa/Alma/Logo-ALMA_e7prct.png",
+          "alt": "Logo Alma"
+        },
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653512277/Portfolio%20Cuatrocuatronoventa/Alma/Logo-BVMA_kynwto.png",
+          "alt": "Logo BVMA"
+        }
+      ]
     }
   ]
 }

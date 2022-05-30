@@ -1,19 +1,20 @@
-import Link from "next/link";
-import { useRef, useEffect, useState } from 'react'
-import Logo from "components/common/Logo";
-import clsx from "clsx";
-import useNavigationChangeByScroll from "../hooks/useNavigationChangeByScroll";
-import useBreakpoint from "hooks/useBreakpoint";
+import Link from "next/link"
+import Logo from "components/common/Logo"
+import clsx from "clsx"
+import useBreakpoint from "hooks/useBreakpoint"
+import { useNavigation } from "components/context/NavigationContext"
 
-export default function Navigation ({ transparentAtStart }) {
-  const { navRef, passingOverVideo } = useNavigationChangeByScroll({ enabled: transparentAtStart })
+export default function Navigation () {
+  const { transparentNav, navRef } = useNavigation()
   const { isMdBreakpointOrLarger } = useBreakpoint()
 
-  const overVideoStyles = passingOverVideo ? 'text-white drop-shadow-lg' : 'bg-white shadow-lg bg-opacity-75 backdrop-blur'
+  const overVideoStyles = transparentNav
+    ? 'text-white drop-shadow-lg'
+    : 'bg-white shadow-lg bg-opacity-75 backdrop-blur'
 
   return (
     isMdBreakpointOrLarger ? (
-      <nav 
+      <nav
         ref={navRef}
         className={clsx(
           'fixed flex justify-between w-full items-center px-16 py-6 text-xl font-light z-20 transition',
@@ -43,7 +44,7 @@ export default function Navigation ({ transparentAtStart }) {
         </div>
       </nav>
     ) : (
-      <nav 
+      <nav
         ref={navRef}
         className={clsx(
           'fixed w-full z-20 transition py-6',

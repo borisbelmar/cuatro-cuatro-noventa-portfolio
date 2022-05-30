@@ -2,6 +2,7 @@ import MainLayout from "components/layout/MainLayout"
 import SingleProject from "components/views/SingleProject"
 import getAllProjects from "lib/getAllProjects"
 import getProjectById from "lib/getProjectById"
+import Head from "next/head"
 import ContentBlockFactory from "../../components/views/SingleProject/ContentBlockFactory"
 
 export async function getStaticPaths() {
@@ -24,5 +25,14 @@ export async function getStaticProps (ctx) {
 }
 
 export default function ProjectPage ({ project }) {
-  return <SingleProject project={project} />
+  return (
+    <>
+      <Head>
+        <title>{project.title} - Cuatro Cuatro Noventa</title>
+        <meta name="description" content={project.description} />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      <SingleProject project={project} />
+    </>
+  )
 }

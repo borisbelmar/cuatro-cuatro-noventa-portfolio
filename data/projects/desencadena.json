@@ -1,7 +1,101 @@
 {
   "order": 7,
   "title": "Desencadena",
+  "description": "",
   "category": "Proyecto",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157941/cuatro-cuatro-noventa/07_Desencadena_qhoyji.jpg",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "imageTitle",
+      "content": {
+        "title": "Desencadena",
+        "image": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653866774/Portfolio%20Cuatrocuatronoventa/Desencadena/Fotos-Perfil-Desencadena_h3hiim.jpg"
+      }
+    },
+    {
+      "type": "plainText",
+      "content": [
+        "CONVERTIMOS BICICLETAS ABANDONADAS EN UNA GALERÍA DE ARTE URBANO",
+        "Barcelona es una de las mejores ciudad para andar en bicicleta.",
+        "Pero en sus calles no todas están preparadas para pedalear, porque muchas están dejadas a la intemperie."
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653440076/Portfolio%20Cuatrocuatronoventa/Desencadena/Mapa-Bicicletas_zhvz0o.png",
+        "alt": "Mapa Bicicletas"
+      }
+    },
+    {
+      "type": "plainText",
+      "content": "Encontramos esos puntos de la ciudad donde estaban abandonadas y las conectamos con los talentos del arte urbano."
+    },
+    {
+      "type": "image",
+      "content": {
+        "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653441696/Portfolio%20Cuatrocuatronoventa/Desencadena/Lienzo-en-Blanco_khgtt7.png",
+        "alt": "Lienzo en blanco"
+      }
+    },
+    {
+      "type": "plainText",
+      "content": "La primera bici en convertirse en un lienzo estuvo a cargo del artista urbano @Kidmaikel, un especialista en Caligrafía y Lettering que pintó el primer punto en el barrio El Clot."
+    },
+    {
+      "type": "image",
+      "content": {
+        "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653440922/Portfolio%20Cuatrocuatronoventa/Desencadena/Carrusel-Desencadena_janq1x.jpg",
+        "alt": "Carrusel Desencadena"
+      }
+    },
+    {
+      "type": "plainText",
+      "content": "\"Un movimiento para convertir bicicletas abandonadas en lienzos para que artistas puedan desencadenar su arte.\""
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Daniel Alarcón / Alex Funez"
+          },
+          {
+            "label": "Artista",
+            "value": "@Kidmaikel"
+          },
+          {
+            "label": "Marca",
+            "value": "Brother Ad School"
+          },
+          {
+            "label": "Reconocimiento",
+            "value": "Plata / Push The Power"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653439112/Portfolio%20Cuatrocuatronoventa/Desencadena/Desencadena-logo_wr9rit.png",
+          "alt": "Desencadena Logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653439115/Portfolio%20Cuatrocuatronoventa/Desencadena/logo-push-the-power-plata_odhuqz.png",
+          "alt": "Logo Push The Power"
+        }
+      ]
+    }
+  ]
 }

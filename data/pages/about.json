@@ -1,0 +1,26 @@
+{
+  "title": "Estamos haciendo lo que siempre quisimos hacer.",
+  "subtitle": "Que básicamente es hacer.",
+  "profiles": [
+    {
+      "photo": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653842895/Portfolio%20Cuatrocuatronoventa/About/Foto-de-perfil-About-Daniel_wksjlt.jpg",
+      "fullName": "DANIEL ALARCÓN",
+      "description": "Hay una coincidencia en mi nombre y mi profesión, son sus iniciales D y A. Lo que no es coincidencia son los colores, tonos, música, frames y animaciones que ocupo. Porque creo que en los detalles está el valor de las cosas.",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/dalar",
+        "behance": "https://www.behance.net/dalart",
+        "email": "email:daniel@cuatrocuatronoventa.com"
+      }
+    },
+    {
+      "photo": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653842895/Portfolio%20Cuatrocuatronoventa/About/Foto-de-perfil-About-Elias_zlfkdy.jpg",
+      "fullName": "ELIAS CASTRO",
+      "description": "Me gusta conectar las ideas con el sentido común de las personas. A veces con humor, siempre con amor.",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/eliascastro/",
+        "behance": "https://www.behance.net/DonElias",
+        "email": "email:elias@cuatrocuatronoventa.com"
+      }
+    }
+  ]
+}

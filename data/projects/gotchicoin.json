@@ -1,7 +1,70 @@
 {
   "order": 11,
   "title": "Gotchicoin",
+  "description": "",
   "category": "Case",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157941/cuatro-cuatro-noventa/11_Gotchicoin_yle1jw.jpg",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "Gotchicoin"
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/713460516?h=113aee75c0"
+    },
+    {
+      "type": "plainText",
+      "content": [
+        "El desafío era tomar un juguete de nuestra infancia y hacer una campaña actual. ¿Cuál elegimos? Pues el Tamagotchi, ¿qué nostalgia no? Y como este accesorio estaba presente en el corazón de todos los de esa generación, no hicimos una campaña para vender el objeto, sino que creamos un sistema que convierte el cuidado y atención por esa mascota, en dinero virtual.",
+        "Esta mascota virtual reacciona al estado de la moneda, si esta bien, esta feliz. Si la moneda baja, la mascota esta molesta, con hambre y te lo notificara hasta que quieras venderla. Generando un moviendo en el mercado."
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653670367/Portfolio%20Cuatrocuatronoventa/Gotchicoin/Iphone-Gotchicoin_vg0dgl.jpg",
+        "alt": "Iphone"
+      }
+    },
+    {
+      "type": "image",
+      "content": {
+        "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653670367/Portfolio%20Cuatrocuatronoventa/Gotchicoin/Billboard-Gotchicoin_cz4qgd.jpg",
+        "alt": "Billboard"
+      }
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Daniel Alarcón"
+          },
+          {
+            "label": "Marca",
+            "value": "Tamagotchi"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653670445/Portfolio%20Cuatrocuatronoventa/Gotchicoin/Logo-Gotchicoin_w0sz9l.png",
+          "alt": "Logo Gotchicoin"
+        }
+      ]
+    }
+  ]
 }

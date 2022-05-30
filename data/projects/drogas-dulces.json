@@ -1,7 +1,43 @@
 {
   "order": 3,
   "title": "Drogas Dulces",
+  "description": "",
   "category": "Sesión de fotos",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/03_Drogas_Dulces_i7al8h.jpg",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "drogasDulces"
+    },
+    {
+      "type": "plainText",
+      "content": [
+        "El azúcar es una droga invisible que está casi todo.",
+        "Es cada vez más evidente que el azúcar es la droga del siglo XXI, pero su dulce percepción no permite ver el daño que produce a la sociedad. Este caso quisimos abordarlo bajo el oscuro mundo del tráfico, ya que como todas las adicciones siempre dejará un final amargo."
+      ]
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Daniel Alarcón"
+          },
+          {
+            "label": "Dirección de Foto",
+            "value": "Juliana Monte"
+          },
+          {
+            "label": "Campaña",
+            "value": "Proyecto personal"
+          }
+        ]
+      }
+    }
+  ]
 }

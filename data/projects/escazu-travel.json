@@ -1,6 +1,7 @@
 {
   "order": 9,
   "title": "Escazú Travel",
+  "description": "",
   "category": "Case",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157941/cuatro-cuatro-noventa/09_Escaz%C3%BA_Travel_b6eqca.jpg",
   "blocks": [
@@ -10,7 +11,7 @@
     },
     {
       "type": "vimeoVideo",
-      "content": "https://player.vimeo.com/video/712391996?h=cfeff79fea"
+      "content": "https://player.vimeo.com/video/713474702?h=ffec06993f"
     },
     {
       "type": "plainText",
@@ -54,8 +55,16 @@
       "type": "logoShowcase",
       "content": [
         {
-          "src": "https://res.cloudinary.com/dobleb/image/upload/v1653250278/cuatro-cuatro-noventa/Logo-EscazuTravel_cs139p.png",
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653866081/Portfolio%20Cuatrocuatronoventa/Escaz%C3%BA%20Travel/Logo-Escazu%CC%81_js1g6s.png",
           "alt": "Escazú Travel Logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653437654/Portfolio%20Cuatrocuatronoventa/Escaz%C3%BA%20Travel/el-ojo-de-iberoam%C3%A9rica_ont9jv.png",
+          "alt": "Logo El Ojo de Iberoamérica"
+        },
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653438150/Portfolio%20Cuatrocuatronoventa/Escaz%C3%BA%20Travel/logo-push-the-power-bronce_eimv8y.png",
+          "alt": "Logo Power Bronze"
         }
       ]
     }

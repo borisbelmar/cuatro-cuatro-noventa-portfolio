@@ -1,9 +1,9 @@
-import getHomeContent from 'lib/getHomeContent'
 import Head from 'next/head'
-import Home from '../components/views/Home'
+import getAboutContent from 'lib/getAboutContent'
+import About from 'components/views/About'
 
 export async function getStaticProps () {
-  const content = await getHomeContent()
+  const content = await getAboutContent()
   return {
     props: {
       content
@@ -11,15 +11,15 @@ export async function getStaticProps () {
   }
 }
 
-export default function Index({ content }) {
+export default function AboutPage({ content }) {
   return (
     <>
       <Head>
-        <title>Cuatro Cuatro Noventa</title>
+        <title>About - Cuatro Cuatro Noventa</title>
         <meta name="description" content="Agencia de publicidad" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Home content={content} />
+      <About content={content} />
     </>
   )
 }

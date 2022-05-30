@@ -1,9 +1,11 @@
 import { motion } from 'framer-motion'
+import useTransparentNavigation from 'hooks/useTransparentNavigation';
 import ScrollSvg from "./ScrollSvg";
 
 export default function VideoHome () {
+  const ref = useTransparentNavigation()
   return (
-    <div className="w-full h-screen relative">
+    <div ref={ref} className="w-full h-screen relative">
       <video className="w-full h-screen object-cover" autoPlay loop muted>
         <source src="/assets/video-home.webm" type="video/webm" />
       </video>

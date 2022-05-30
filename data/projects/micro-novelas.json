@@ -1,7 +1,65 @@
 {
   "order": 8,
   "title": "Micro Novelas",
+  "description": "",
   "category": "Mini Historias",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157941/cuatro-cuatro-noventa/08_Micro_Novelas_agjhsg.jpg",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "Micro Novelas"
+    },
+    {
+      "type": "multiPortraitVideo",
+      "content": [
+        "https://player.vimeo.com/video/714948832?h=bd70bce414",
+        "https://player.vimeo.com/video/714948855?h=fca85e9e8a",
+        "https://player.vimeo.com/video/714948872?h=ea1b87ece4"
+      ]
+    },
+    {
+      "type": "plainText",
+      "content": "Utilizamos las teleseries clásicas de Latinoamérica en formatos de Post Stories y con un nuevo doblaje y toque de humor, para demostrar la dura realidad del aborto. Pero buscando bajarle el drama."
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Redacción",
+            "value": "María Pilar Jiménez / Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Karla Urrutia / Daniel Alarcón"
+          },
+          {
+            "label": "Marca",
+            "value": "Planned Parenthood Global y Publicitarias.org"
+          },
+          {
+            "label": "Concurso",
+            "value": "El Ojo de Iberoamérica / Nuevos Talentos 2021"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653437352/Portfolio%20Cuatrocuatronoventa/Micronovelas/MicroNovelas-logo_conb9w.png",
+          "alt": "Micro Novelas Logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653437339/Portfolio%20Cuatrocuatronoventa/Micronovelas/el-ojo-de-iberoam%C3%A9rica_e4aozv.png",
+          "alt": "El Ojo de Iberoamérica Logo"
+        }
+      ]
+    }
+  ]
 }

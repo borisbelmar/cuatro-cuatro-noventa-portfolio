@@ -1,7 +1,92 @@
 {
   "order": 2,
   "title": "Demadera Session",
+  "description": "",
   "category": "Videoclip",
   "image": "https://res.cloudinary.com/dobleb/image/upload/v1653157940/cuatro-cuatro-noventa/02_Demadera_Session_nto2el.jpg",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "plainTitle",
+      "content": "Sesiones DeMadera"
+    },
+    {
+      "type": "plainText",
+      "content": "Descubrimos un espacio íntimo, un paréntesis, una caja resonante donde el silencio solo se rompe cuando las ruedas pasan sobre la madera. Por eso creamos una serie de encuentros donde un músico improvisa con su piano, mientras un rider hace lo mismo con su tabla."
+    },
+    {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/713230970?h=e14951aa44"
+    },
+    {
+      "type": "plainText",
+      "content": "Convertimos una rampa en un estudio de música y un skate en un instrumento."
+    },
+    {
+      "type": "image",
+      "content": {
+        "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653668968/Portfolio%20Cuatrocuatronoventa/Demadera%20Sesiones/Poster-Calle-Demadera_e80bys.jpg",
+        "alt": "Poster Calle Demadera"
+      }
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "keyValueList",
+      "content": {
+        "title": "Créditos",
+        "list": [
+          {
+            "label": "Dirección",
+            "value": "Daniel Alarcón / Elías Castro"
+          },
+          {
+            "label": "Dirección de Arte",
+            "value": "Paloma Pérez"
+          },
+          {
+            "label": "Redacción",
+            "value": "Elías Castro"
+          },
+          {
+            "label": "Director de Foto",
+            "value": "Christian Gutierrez"
+          },
+          {
+            "label": "Montaje",
+            "value": "Christian Gutierrez / Daniel Alarcón"
+          },
+          {
+            "label": "Diseño",
+            "value": "Daniel Alarcón"
+          },
+          {
+            "label": "Pianista",
+            "value": "Gabo Paillao"
+          },
+          {
+            "label": "Música",
+            "value": "Carlos Mol Mesías"
+          },
+          {
+            "label": "Producción",
+            "value": "Elías Castro"
+          },
+          {
+            "label": "Skaters",
+            "value": "Benjamín Sapiain / Bastian Saavedra"
+          }
+        ]
+      }
+    },
+    {
+      "type": "logoShowcase",
+      "content": [
+        {
+          "src": "https://res.cloudinary.com/dzpkmjaih/image/upload/v1653436683/Portfolio%20Cuatrocuatronoventa/Demadera%20Sesiones/Logo-Demadera-calado_etbaod.png",
+          "alt": "Logo Demadera Calado"
+        }
+      ]
+    }
+  ]
 }
