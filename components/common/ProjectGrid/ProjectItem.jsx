@@ -72,7 +72,7 @@ export default function ProjectItem ({ project, idx }) {
             {project.title}
           </h3>
         </div>
-        <p className="mb-4 text-center text-sm sm:text-lg md:text-xl">
+        <p className="mb-4 text-center text-sm sm:text-lg md:text-xl font-light">
           {project.category}
         </p>
       </div>
