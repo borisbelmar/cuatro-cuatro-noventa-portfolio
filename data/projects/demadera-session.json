@@ -18,6 +18,10 @@
       "content": "https://player.vimeo.com/video/713230970?h=e14951aa44"
     },
     {
+      "type": "vimeoVideo",
+      "content": "https://player.vimeo.com/video/713230970?h=e14951aa44"
+    },
+    {
       "type": "plainText",
       "content": "Convertimos una rampa en un estudio de música y un skate en un instrumento."
     },
