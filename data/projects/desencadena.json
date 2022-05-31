@@ -54,6 +54,21 @@
       "content": "\"Un movimiento para convertir bicicletas abandonadas en lienzos para que artistas puedan desencadenar su arte.\""
     },
     {
+      "type": "linkList",
+      "content": [
+        {
+          "label": "Link de la noticia [20 Minutos - España]",
+          "url": "https://www.20minutos.es/noticia/4952757/0/desencadena-arte-convertir-bicicletas-abandonadas-barcelona-en-expresion-artistica/?utm_source=Redes-20minutos&s=09",
+          "blank": true
+        },
+        {
+          "label": "Video del Caso",
+          "url": "https://vimeo.com/713472323",
+          "blank": true
+        }
+      ]
+    },
+    {
       "type": "separator"
     },
     {

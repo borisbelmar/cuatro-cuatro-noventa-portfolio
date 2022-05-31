@@ -2,6 +2,7 @@ import DrogasDulcesCreativity from './components/DrogasDulcesCreativity'
 import ImageBlock from './components/Image'
 import ImageTitle from './components/ImageTitle'
 import KeyValueList from './components/KeyValueList'
+import LinkList from './components/LinkList'
 import LogoShowCase from './components/LogoShowcase'
 import MultiPortraitVideo from './components/MultiPortraitVideo'
 import PlainTitle from './components/PlainTitle'
@@ -31,6 +32,8 @@ const getContentLayout = contentType => {
       return DrogasDulcesCreativity
     case 'multiPortraitVideo':
       return MultiPortraitVideo
+    case 'linkList':
+      return LinkList
     default:
       return Text
   }
