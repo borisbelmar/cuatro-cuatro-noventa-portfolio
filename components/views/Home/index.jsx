@@ -1,3 +1,4 @@
+import SplashScreen from 'components/common/SplashScreen'
 import MainLayout from 'components/layout/MainLayout'
 import ProjectGrid from '../../common/ProjectGrid'
 import ReasonWhy from './components/ReasonWhy'
@@ -12,6 +13,7 @@ export default function Home({ content }) {
         subtitle={content['reason-why-subtitle']}
       />
       <ProjectGrid projects={content.projects} />
+      <SplashScreen />
     </MainLayout>
   )
 }
